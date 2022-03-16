@@ -1,3 +1,5 @@
+## Fair Warning
+This repo is made by bituq (zeal) since I'm still trying to figure out github's programming language for editing repo's
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" />
     <img src="https://svg-banners.vercel.app/api?type=origin&text1=darrensdemise&text2=💖%22Hearts!%22&width=800&height=200" />
