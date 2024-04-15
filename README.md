@@ -12,8 +12,8 @@
 
   ## Work Exp.
 
-  I have worked with one of the biggest banks in Indonesia, bank Mandiri, and contributed to small projects in competing game companies on ROBLOX.
-  I've spearheaded a team of aspiring designers to help with a big school event that has invited big artists such as Reality Club.
+  Worked with one of the biggest banks in Indonesia, Mandiri, to make a custom E-Money card design in 2023.
+  <img src="https://pbs.twimg.com/media/GB2OBflbsAATjmF?format=jpg&name=large">
 
   
   |Lua|HTML|Graphic Design|
