@@ -10,7 +10,7 @@
   I am a Junior High School student (soon graduating!). I specialize in Graphic Design and programming with Lua & HTML.
   |Lua|HTML|Graphic Design|
   |--|--|--|
-  |Intermediate|Intermediate|High|
+  |Intermediate|Beginner|Expert|
 
   Still expanding my skills! 🙋‍♂️
 
