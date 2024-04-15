@@ -20,11 +20,12 @@
   |Tarlim Cup|Head of Publications & Documentation|Spearheaded a team of designers for a big school event with big artists such as Reality Club. ✍|800+ followers gained✅|
   |Tarlim Cup|Head of Publications & Documentation|Made merch designs such as tote bags, shirts, hoodies, and many more. 🎨|Dozens of each type of merch sold✅|
   |Yearbook|Head of Documentation & member of Design team|Worked on my school's yearbook design and lead the documentation team. 🎨|✅|
-  |UNEXEX|Became a designer and 3rd programmer @ UNEXEX 🏈|✅|
+  |UNEXEX|Graphic Designer and Programmer|Became a designer and 3rd programmer @ UNEXEX 🏈|✅|
 
+  ## My Skills!
   </div>
   <div align="center">
-  
+
   |Lua|HTML|Graphic Design|
   |--|--|--|
   |Intermediate|Beginner|Expert|
