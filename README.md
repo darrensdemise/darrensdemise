@@ -8,15 +8,17 @@
 <div align="center">
   
   I am a Junior High School student (soon graduating!). I specialize in Graphic Design and programming with Lua & HTML.
-  |Lua|HTML|Graphic Design|
-  |--|--|--|
-  |Intermediate|Beginner|Expert|
-
-  Still expanding my skills! 🙋‍♂️
 
   ## Work Exp.
 
   I have worked with one of the biggest banks in Indonesia, bank Mandiri, and contributed to small projects in competing game companies on ROBLOX. I've spearheaded a team of aspiring designers to help with a big school event that has invited big artists such as Reality Club.
+
+  
+  |Lua|HTML|Graphic Design|
+  |--|--|--|
+  |Intermediate|Beginner|Expert|
+
+  Still expanding my skills! 🙋‍♂
 
   ## Stats
   <img src="https://metrics.lecoq.io/darrensdemise?template=classic&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FJakarta" />
