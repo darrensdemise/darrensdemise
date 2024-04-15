@@ -5,13 +5,15 @@
     <img src="https://svg-banners.vercel.app/api?type=origin&text1=darrensdemise&text2=💖%22Hearts!%22&width=800&height=200" />
   </a>
 </div>
-<div align="center">
+<div align="left">
   
-  I am a Junior High School student (soon graduating!). I specialize in Graphic Design and programming with Lua & HTML.
+  I'm Darren, mostly known online as darrensdemise. I am a 14 year old Junior High School student (soon graduating!) and I've been programming since 11 years old.
+  I specialize in Graphic Design and programming with Lua & HTML.
 
   ## Work Exp.
 
-  I have worked with one of the biggest banks in Indonesia, bank Mandiri, and contributed to small projects in competing game companies on ROBLOX. I've spearheaded a team of aspiring designers to help with a big school event that has invited big artists such as Reality Club.
+  I have worked with one of the biggest banks in Indonesia, bank Mandiri, and contributed to small projects in competing game companies on ROBLOX.
+  I've spearheaded a team of aspiring designers to help with a big school event that has invited big artists such as Reality Club.
 
   
   |Lua|HTML|Graphic Design|
