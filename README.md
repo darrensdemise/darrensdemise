@@ -12,13 +12,13 @@
 </div>
 <div align="center">
   
-  I am a Middle School student, Blender Animator, 3D Modeler/Artist, ROBLOX Developer and much more.
+  I am a Junior High School student (soon graduating!). I specialize in Graphic Design and programming with Lua & HTML having worked with one of the biggest banks in Indonesia, bank Mandiri, and contributed to small projects in competing game companies on ROBLOX.
   ## My Skills
-  |<img align="center" title="Lua" alt="lua" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">|Friendship|Stealing People's Work|
+  |Lua|HTML|Graphic Design|
   |--|--|--|
-  |Intermediate|No|High|
+  |Intermediate|Intermediate|High|
 
-  Please, no need for the applause. 🙋‍♂️
+  Please, no need for the round of applause. 🙋‍♂️
   ## Stats
   <img src="https://metrics.lecoq.io/darrensdemise?template=classic&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FJakarta" />
 </div>
