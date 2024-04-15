@@ -10,10 +10,10 @@
   I'm Darren, mostly known online as darrensdemise. I am a 14 year old Junior High School student (soon graduating!) and I've been programming since 11 years old.
   I specialize in Graphic Design and programming with Lua & HTML.
 
-  ## Work Exp.
+  ## My Projects.
 
-  Worked with one of the biggest banks in Indonesia, Mandiri, to make a custom E-Money card design in 2023.
-  <img src="https://pbs.twimg.com/media/GB2OBflbsAATjmF?format=jpg&name=large">
+  Worked with one of the biggest banks in Indonesia, Mandiri, to make a custom E-Money card design in 2023. ✨😎
+  <img src="https://pbs.twimg.com/media/GLMqBbIagAAzvef?format=jpg&name=large">
 
   
   |Lua|HTML|Graphic Design|
