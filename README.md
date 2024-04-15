@@ -15,6 +15,11 @@
   Worked with one of the biggest banks in Indonesia, Mandiri, to make a custom E-Money card design in 2023. ✨😎
   <img src="https://pbs.twimg.com/media/GLMqBbIagAAzvef?format=jpg&name=large">
 
+  |Project|Description|Metrics|
+  |--|--|--|
+  |Tarlim Cup|Made a custom E-Money card design with Mandiri Bank as partners, one of the largest banks in Indonesia|100+ Cards Printed|
+  |blank|blank|blank|
+
   
   |Lua|HTML|Graphic Design|
   |--|--|--|
@@ -22,6 +27,4 @@
 
   Still expanding my skills! 🙋‍♂
 
-  ## Stats
-  <img src="https://metrics.lecoq.io/darrensdemise?template=classic&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FJakarta" />
 </div>
