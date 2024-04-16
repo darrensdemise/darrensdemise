@@ -26,9 +26,9 @@
   </div>
   <div align="center">
 
-  |Lua|HTML|Graphic Design|
-  |--|--|--|
-  |Intermediate|Beginner|Expert|
+  |Lua|HTML|Graphic Design|Python|
+  |--|--|--|--|
+  |Intermediate|Beginner|Expert|Beginner|
 
   Still expanding my skills! 🙋‍♂
 
